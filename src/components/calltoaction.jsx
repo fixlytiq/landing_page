@@ -5,12 +5,12 @@ const CallToAction = () => (
         <div className="container">
             <div>
                 <h2 style={{color: 'var(--accent-color)', fontSize: '4rem', fontWeight: '300', marginBottom: '30px', letterSpacing: '-0.02em'}}>
-                    not everyone<br />gets it
+                    Ready to Stop<br />Juggling and Start Growing?
                 </h2>
                 <p style={{color: 'var(--secondary-text)', fontSize: '1.25rem', maxWidth: '600px', margin: '0 auto 40px', lineHeight: '1.5'}}>
-                    like all good things in life, earning a fixlytiq membership is not easy; but the possibility of unlocking a greater future makes the effort worthwhile.
+                    Leave the chaos of paperwork and disconnected apps behind. See how Fixlytiq can streamline your operations, impress your customers, and give you the data you need to build a more profitable business.
                 </p>
-                <a href="#" className="btn btn-primary" style={{fontSize: '1rem'}}>DOWNLOAD FIXLYTIQ</a>
+                <a href="#" className="btn btn-primary" style={{fontSize: '1rem'}}>Request a Live Demo</a>
             </div>
         </div>
     </section>

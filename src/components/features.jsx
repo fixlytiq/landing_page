@@ -2,40 +2,40 @@ import React from 'react';
 
 const coreFeatures = [
     { 
-        title: "Integrated Ticket Management", 
+        title: "Effortless Ticket Management.", 
         icon: "🎫", 
-        details: "Comprehensive ticket creation, real-time status tracking (Open, Resolved, Closed), priority levels, liability form uploads, and immediate technician assignment.",
-        imageUrl: "/fe1.png" // FIXED: Changed to .png
+        details: "Create, track, and update repair tickets in seconds. Keep customers informed with automated status updates from start to finish.",
+        imageUrl: "/fe1.png"
     },
     { 
-        title: "Intelligent Inventory & Stock", 
+        title: "Never Lose a Part.", 
         icon: "📦", 
-        details: "Complete tracking (parts, tools, accessories), financial valuation, category organization, and automated low stock alerts directly linked to vendor procurement.",
-        imageUrl: "/fe2.png" // FIXED: Changed to .png
+        details: "Real-time inventory tracking links directly to your repairs. Know what you have, what you need, and what you've used, automatically.",
+        imageUrl: "/fe2.png"
     },
     { 
-        title: "Advanced Analytics & Reporting", 
-        icon: "📈", 
-        details: "Data-driven business overview reports, ticket analysis charts, status distribution, team productivity metrics, and customizable time range filtering.",
-        imageUrl: "/fe3.png" // FIXED: Changed to .png
+        title: "Seamless Point of Sale.", 
+        icon: "💳", 
+        details: "Process payments, manage invoices, and handle returns directly from the repair ticket. A faster checkout means happier customers.",
+        imageUrl: "/fe3.png"
     },
     { 
         title: "Mobile Team & Vendor Control", 
         icon: "👥", 
         details: "Manage employee profiles, geo-fenced status tracking, salary, and employment history. Comprehensive vendor database with ratings and payment terms.",
-        imageUrl: "/fe4.png" // FIXED: Changed to .png
+        imageUrl: "/fe4.png"
     },
     { 
         title: "Geo-Location & Cross-Platform", 
         icon: "🌐", 
         details: "Built on React Native/Expo for flawless performance on iOS, Android, and Web. Includes customer location tracking and is ready for offline support.",
-        imageUrl: "/fe5.png" // FIXED: Changed to .png
+        imageUrl: "/fe5.png"
     },
     { 
         title: "Technical Foundation & Security", 
         icon: "🛠️", 
         details: "Modern stack (TypeScript, Supabase/PostgreSQL, TanStack Query), Zod form validation, professional UI, and deployment readiness (EAS Build, CI/CD).",
-        imageUrl: "/fe6.png" // FIXED: Changed to .png
+        imageUrl: "/fe6.png"
     },
 ];
 

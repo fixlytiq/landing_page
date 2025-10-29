@@ -37,8 +37,8 @@ const Hero = () => {
 
             {/* The Main Content, which is absolutely centered */}
             <div className="container hero-content">
-                <h1>A REFLECTION<br />OF EFFICIENCY.</h1>
-                <p>Stop losing time on the road. Fixlytiq integrates customer management, real-time inventory, and scheduling to empower your entire mobile repair team.</p>
+                <h1>Command Every Repair,<br />From Check-In to Cash-Out.</h1>
+                <p>Fixlytiq is the all-in-one command center for your repair business. Stop juggling spreadsheets, lost tickets, and clunky payment systems. Our integrated platform gives you total control over your workflow, from creating a repair ticket and tracking parts to processing payments and understanding your profits—all in one place.</p>
                 
                 <button 
                   className="btn btn-primary hero-cta" 
