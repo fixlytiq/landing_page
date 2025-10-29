@@ -54,7 +54,7 @@ const Features = () => (
                         letterSpacing: '-0.02em'
                     }}
                 >
-                    all that you<br />deserve. and<br />some more.
+                    Command Every Repair,<br />From Check-In to Cash-Out.
                 </h2>
                 <p 
                     className="section-sub-text" 
